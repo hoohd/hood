@@ -1,0 +1,12 @@
+D:\wulli\AttendanceSystem\Model\bin\Debug\Model.dll
+D:\wulli\AttendanceSystem\Model\bin\Debug\Model.pdb
+D:\wulli\AttendanceSystem\Model\obj\Debug\Model.dll
+D:\wulli\AttendanceSystem\Model\obj\Debug\Model.pdb
+G:\AttendanceSystem\Model\bin\Debug\Model.dll
+G:\AttendanceSystem\Model\bin\Debug\Model.pdb
+G:\AttendanceSystem\Model\obj\Debug\Model.dll
+G:\AttendanceSystem\Model\obj\Debug\Model.pdb
+C:\Users\yuan\Desktop\AttendanceSystem\Model\bin\Debug\Model.dll
+C:\Users\yuan\Desktop\AttendanceSystem\Model\bin\Debug\Model.pdb
+C:\Users\yuan\Desktop\AttendanceSystem\Model\obj\Debug\Model.dll
+C:\Users\yuan\Desktop\AttendanceSystem\Model\obj\Debug\Model.pdb
